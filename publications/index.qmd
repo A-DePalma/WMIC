@@ -1,0 +1,42 @@
+---
+title: ""
+toc: false
+---
+
+```{=html}
+<div class="page-hero">
+  <div class="container">
+    <h1>Publications</h1>
+    <p>Peer-reviewed papers, preprints, and working papers from the WMIC project</p>
+  </div>
+</div>
+
+<div class="container">
+
+  <p style="color:#607d7d;font-size:0.9rem;margin-bottom:2rem">
+    Publications are listed in reverse chronological order. 
+    <span class="pub-badge published">Published</span> indicates peer-reviewed publications; 
+    <span class="pub-badge preprint">Preprint</span> indicates work under review.
+  </p>
+
+  <!-- Add your publications below. Copy and paste a pub-item block for each new entry. -->
+
+  <div class="pub-item">
+    <h4>
+      Your Paper Title Goes Here
+      <span class="pub-badge preprint">Preprint</span>
+    </h4>
+    <div class="authors">DePalma A, Supervisor B, Supervisor C</div>
+    <div class="journal">Working paper / under review — 2025</div>
+    <div style="margin-top:0.5rem;display:flex;gap:0.75rem;flex-wrap:wrap">
+      <a href="#" style="font-size:0.82rem;color:#3d9e9e;text-decoration:none;font-weight:500">📄 Preprint (PDF)</a>
+      <a href="#" style="font-size:0.82rem;color:#3d9e9e;text-decoration:none;font-weight:500">🔗 OSF / SSRN</a>
+    </div>
+  </div>
+
+  <div style="padding:2rem 0;text-align:center;color:#9eb8b8;font-size:0.9rem">
+    More publications will appear here as the project progresses.
+  </div>
+
+</div>
+```
