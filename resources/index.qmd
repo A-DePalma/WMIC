@@ -1,0 +1,72 @@
+---
+title: ""
+toc: false
+---
+
+```{=html}
+<div class="page-hero">
+  <div class="container">
+    <h1>Resources</h1>
+    <p>Data, code, materials, and other outputs from the WMIC project</p>
+  </div>
+</div>
+
+<div class="container">
+
+  <p style="color:#607d7d;margin-bottom:2rem;line-height:1.7">
+    We are committed to open science. Where possible, data, analysis code, and research instruments
+    will be made openly available below as the project progresses.
+  </p>
+
+  <!-- SECTION: Data -->
+  <h2 class="section-title" style="font-size:1.4rem;margin-bottom:1rem">Data</h2>
+  <a href="#" class="resource-item">
+    <div class="resource-icon">🗄️</div>
+    <div>
+      <h5>Dataset name</h5>
+      <p>Brief description of the dataset, sample size, variables, and access conditions.</p>
+    </div>
+  </a>
+
+  <hr class="divider-teal">
+
+  <!-- SECTION: Code -->
+  <h2 class="section-title" style="font-size:1.4rem;margin-bottom:1rem">Code &amp; Analysis Scripts</h2>
+  <a href="https://github.com/A-DePalma/WMIC" class="resource-item" target="_blank">
+    <div class="resource-icon">💻</div>
+    <div>
+      <h5>GitHub Repository</h5>
+      <p>All analysis scripts and code will be shared in the project's GitHub repository.</p>
+    </div>
+  </a>
+
+  <hr class="divider-teal">
+
+  <!-- SECTION: Study materials -->
+  <h2 class="section-title" style="font-size:1.4rem;margin-bottom:1rem">Study Materials</h2>
+  <a href="#" class="resource-item">
+    <div class="resource-icon">📋</div>
+    <div>
+      <h5>Survey instrument</h5>
+      <p>Questionnaire and measurement tools used in the study. Available on request / download link.</p>
+    </div>
+  </a>
+
+  <hr class="divider-teal">
+
+  <!-- SECTION: Reports & presentations -->
+  <h2 class="section-title" style="font-size:1.4rem;margin-bottom:1rem">Reports &amp; Presentations</h2>
+  <a href="#" class="resource-item">
+    <div class="resource-icon">📊</div>
+    <div>
+      <h5>Conference presentation — [Event name, Year]</h5>
+      <p>Slides from [conference name]. Add a short description of the content.</p>
+    </div>
+  </a>
+
+  <div style="padding:2rem 0;text-align:center;color:#9eb8b8;font-size:0.9rem">
+    More resources will be added as the project progresses.
+  </div>
+
+</div>
+```
