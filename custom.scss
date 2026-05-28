@@ -1,4 +1,4 @@
-/*-- WMIC Custom Theme --*/
+/*-- scss:defaults --*/
 
 // Colour palette
 $teal-dark:    #1a4a4a;
@@ -35,3 +35,7 @@ $navbar-hl:              $amber;
 $border-radius: 0.5rem;
 $card-border-color: rgba($teal-mid, 0.15);
 $card-box-shadow: 0 2px 12px rgba($teal-dark, 0.07);
+
+/*-- scss:rules --*/
+
+// Additional rules can go here if needed in future
