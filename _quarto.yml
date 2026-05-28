@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "WMIC"
+  description: "Wellbeing, Mental health, Inequalities & Choices — A PhD Research Project"
+  favicon: images/favicon.ico
+
+  navbar:
+    background: primary
+    logo: images/logo.png
+    logo-alt: "WMIC"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Project"
+        href: project.qmd
+      - text: "Team"
+        href: team/index.qmd
+      - text: "Publications"
+        href: publications/index.qmd
+      - text: "Resources"
+        href: resources/index.qmd
+      - text: "News"
+        href: news/index.qmd
+      - text: "Contact"
+        href: contact.qmd
+    right:
+      - icon: github
+        href: https://github.com/A-DePalma/WMIC
+        aria-label: GitHub
+
+  page-footer:
+    left: "© 2025 WMIC Project"
+    right:
+      - text: "GitHub"
+        href: https://github.com/A-DePalma/WMIC
+
+  open-graph: true
+
+format:
+  html:
+    theme:
+      light: [flatly, custom.scss]
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

@@ -1,0 +1,37 @@
+/*-- WMIC Custom Theme --*/
+
+// Colour palette
+$teal-dark:    #1a4a4a;
+$teal-mid:     #2a7070;
+$teal-light:   #3d9e9e;
+$teal-pale:    #e8f5f5;
+$warm-white:   #fafaf8;
+$slate:        #2c3e50;
+$slate-light:  #546e7a;
+$amber:        #e8a838;
+$amber-light:  #fdf3e0;
+$text-dark:    #1c2b2b;
+$text-muted:   #607d7d;
+
+// Override Flatly theme variables
+$primary:      $teal-mid;
+$secondary:    $slate-light;
+$success:      #4caf7d;
+$info:         $teal-light;
+$body-bg:      $warm-white;
+$body-color:   $text-dark;
+$link-color:   $teal-mid;
+$link-hover-color: $teal-dark;
+
+$font-family-sans-serif: 'DM Sans', 'Segoe UI', sans-serif;
+$headings-font-family:   'DM Serif Display', Georgia, serif;
+$headings-color:         $teal-dark;
+$headings-font-weight:   400;
+
+$navbar-bg:              $teal-dark;
+$navbar-fg:              #e8f5f5;
+$navbar-hl:              $amber;
+
+$border-radius: 0.5rem;
+$card-border-color: rgba($teal-mid, 0.15);
+$card-box-shadow: 0 2px 12px rgba($teal-dark, 0.07);
