@@ -1,0 +1,450 @@
+/* WMIC Global Styles */
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;1,9..40,300&family=DM+Serif+Display:ital@0;1&display=swap');
+
+/* ── Hero section ── */
+.hero {
+  background: linear-gradient(135deg, #1a4a4a 0%, #2a7070 60%, #3d9e9e 100%);
+  color: #e8f5f5;
+  padding: 5rem 0 4rem;
+  margin-bottom: 3rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: radial-gradient(circle at 70% 50%, rgba(232,168,56,0.12) 0%, transparent 60%),
+                    radial-gradient(circle at 20% 80%, rgba(255,255,255,0.05) 0%, transparent 40%);
+}
+
+.hero-inner {
+  position: relative;
+  z-index: 1;
+  max-width: 760px;
+}
+
+.hero h1 {
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-size: clamp(2.2rem, 5vw, 3.4rem);
+  color: #ffffff;
+  line-height: 1.15;
+  margin-bottom: 1rem;
+  font-weight: 400;
+}
+
+.hero .lead {
+  font-size: 1.15rem;
+  color: rgba(232,245,245,0.88);
+  font-weight: 300;
+  line-height: 1.7;
+  margin-bottom: 2rem;
+}
+
+.hero-tag {
+  display: inline-block;
+  background: rgba(232,168,56,0.2);
+  border: 1px solid rgba(232,168,56,0.45);
+  color: #fcd97a;
+  font-size: 0.78rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 0.3rem 0.85rem;
+  border-radius: 2rem;
+  margin-bottom: 1.25rem;
+}
+
+/* ── Buttons ── */
+.btn-hero {
+  background: #e8a838;
+  color: #1a4a4a;
+  border: none;
+  font-weight: 500;
+  padding: 0.7rem 1.6rem;
+  border-radius: 2rem;
+  font-size: 0.95rem;
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.2s ease;
+  margin-right: 0.75rem;
+}
+
+.btn-hero:hover {
+  background: #d4922e;
+  color: #1a4a4a;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 16px rgba(232,168,56,0.35);
+  text-decoration: none;
+}
+
+.btn-outline-hero {
+  background: transparent;
+  color: #e8f5f5;
+  border: 1.5px solid rgba(232,245,245,0.45);
+  font-weight: 400;
+  padding: 0.7rem 1.6rem;
+  border-radius: 2rem;
+  font-size: 0.95rem;
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.2s ease;
+}
+
+.btn-outline-hero:hover {
+  background: rgba(232,245,245,0.1);
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/* ── Section headings ── */
+.section-label {
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #3d9e9e;
+  margin-bottom: 0.5rem;
+}
+
+.section-title {
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-size: 1.9rem;
+  color: #1a4a4a;
+  font-weight: 400;
+  margin-bottom: 0.75rem;
+}
+
+/* ── Cards ── */
+.wmic-card {
+  background: #ffffff;
+  border: 1px solid rgba(42,112,112,0.12);
+  border-radius: 0.75rem;
+  padding: 1.75rem;
+  box-shadow: 0 2px 12px rgba(26,74,74,0.06);
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+  height: 100%;
+}
+
+.wmic-card:hover {
+  box-shadow: 0 6px 24px rgba(26,74,74,0.11);
+  transform: translateY(-2px);
+}
+
+.wmic-card .card-icon {
+  width: 44px;
+  height: 44px;
+  background: #e8f5f5;
+  border-radius: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1rem;
+  font-size: 1.3rem;
+}
+
+.wmic-card h3 {
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-size: 1.2rem;
+  color: #1a4a4a;
+  margin-bottom: 0.5rem;
+  font-weight: 400;
+}
+
+.wmic-card p {
+  color: #607d7d;
+  font-size: 0.93rem;
+  line-height: 1.65;
+  margin: 0;
+}
+
+/* ── Team cards ── */
+.team-card {
+  text-align: center;
+  padding: 2rem 1.5rem;
+}
+
+.team-card img {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #e8f5f5;
+  margin-bottom: 1rem;
+  box-shadow: 0 3px 12px rgba(26,74,74,0.12);
+}
+
+.team-card .team-avatar-placeholder {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #2a7070, #3d9e9e);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'DM Serif Display', serif;
+  font-size: 2rem;
+  color: white;
+  margin: 0 auto 1rem;
+  box-shadow: 0 3px 12px rgba(26,74,74,0.12);
+}
+
+.team-card h4 {
+  font-family: 'DM Serif Display', Georgia, serif;
+  color: #1a4a4a;
+  font-weight: 400;
+  margin-bottom: 0.2rem;
+}
+
+.team-card .role {
+  font-size: 0.83rem;
+  color: #3d9e9e;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  margin-bottom: 0.6rem;
+}
+
+.team-card p {
+  font-size: 0.9rem;
+  color: #607d7d;
+  line-height: 1.6;
+}
+
+/* ── Publication list ── */
+.pub-item {
+  padding: 1.25rem 0;
+  border-bottom: 1px solid rgba(42,112,112,0.1);
+}
+
+.pub-item:last-child { border-bottom: none; }
+
+.pub-item h4 {
+  font-size: 1rem;
+  color: #1a4a4a;
+  font-weight: 500;
+  margin-bottom: 0.3rem;
+  font-family: 'DM Sans', sans-serif;
+}
+
+.pub-item .authors {
+  font-size: 0.88rem;
+  color: #607d7d;
+  margin-bottom: 0.25rem;
+}
+
+.pub-item .journal {
+  font-size: 0.88rem;
+  color: #3d9e9e;
+  font-style: italic;
+}
+
+.pub-badge {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 500;
+  padding: 0.15rem 0.6rem;
+  border-radius: 1rem;
+  margin-left: 0.5rem;
+  vertical-align: middle;
+}
+
+.pub-badge.preprint { background: #fdf3e0; color: #b07820; border: 1px solid #f0cc80; }
+.pub-badge.published { background: #e8f5f5; color: #2a7070; border: 1px solid #a0d4d4; }
+
+/* ── News items ── */
+.news-item {
+  display: flex;
+  gap: 1.5rem;
+  padding: 1.5rem 0;
+  border-bottom: 1px solid rgba(42,112,112,0.1);
+}
+
+.news-item:last-child { border-bottom: none; }
+
+.news-date {
+  min-width: 70px;
+  text-align: center;
+}
+
+.news-date .month {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #3d9e9e;
+  font-weight: 500;
+}
+
+.news-date .day {
+  font-family: 'DM Serif Display', serif;
+  font-size: 2rem;
+  color: #1a4a4a;
+  line-height: 1;
+}
+
+.news-date .year {
+  font-size: 0.72rem;
+  color: #9eb8b8;
+}
+
+.news-content h4 {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #1a4a4a;
+  margin-bottom: 0.3rem;
+}
+
+.news-content p {
+  font-size: 0.9rem;
+  color: #607d7d;
+  margin: 0;
+  line-height: 1.6;
+}
+
+/* ── Resources ── */
+.resource-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  padding: 1.1rem 1.4rem;
+  background: #ffffff;
+  border: 1px solid rgba(42,112,112,0.12);
+  border-radius: 0.6rem;
+  margin-bottom: 0.75rem;
+  transition: box-shadow 0.2s;
+  text-decoration: none;
+  color: inherit;
+}
+
+.resource-item:hover {
+  box-shadow: 0 4px 16px rgba(26,74,74,0.09);
+  text-decoration: none;
+  color: inherit;
+}
+
+.resource-icon {
+  font-size: 1.4rem;
+  margin-top: 0.1rem;
+  flex-shrink: 0;
+}
+
+.resource-item h5 {
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: #1a4a4a;
+  margin-bottom: 0.2rem;
+}
+
+.resource-item p {
+  font-size: 0.85rem;
+  color: #607d7d;
+  margin: 0;
+}
+
+/* ── Contact form ── */
+.contact-wrapper {
+  max-width: 620px;
+}
+
+.contact-wrapper input,
+.contact-wrapper textarea,
+.contact-wrapper select {
+  border: 1.5px solid rgba(42,112,112,0.2);
+  border-radius: 0.5rem;
+  padding: 0.65rem 1rem;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.93rem;
+  width: 100%;
+  transition: border-color 0.15s;
+  background: #ffffff;
+}
+
+.contact-wrapper input:focus,
+.contact-wrapper textarea:focus {
+  border-color: #3d9e9e;
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(61,158,158,0.1);
+}
+
+.contact-wrapper label {
+  font-size: 0.88rem;
+  font-weight: 500;
+  color: #1a4a4a;
+  margin-bottom: 0.35rem;
+  display: block;
+}
+
+.btn-submit {
+  background: #2a7070;
+  color: white;
+  border: none;
+  padding: 0.75rem 2rem;
+  border-radius: 2rem;
+  font-size: 0.95rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.btn-submit:hover {
+  background: #1a4a4a;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 14px rgba(26,74,74,0.2);
+}
+
+/* ── Stat highlights ── */
+.stat-box {
+  text-align: center;
+  padding: 1.5rem;
+}
+
+.stat-box .stat-number {
+  font-family: 'DM Serif Display', serif;
+  font-size: 2.5rem;
+  color: #2a7070;
+  line-height: 1;
+  margin-bottom: 0.3rem;
+}
+
+.stat-box .stat-label {
+  font-size: 0.85rem;
+  color: #607d7d;
+  font-weight: 300;
+}
+
+/* ── Utility ── */
+.teal-accent { color: #3d9e9e; }
+.amber-accent { color: #e8a838; }
+.divider-teal {
+  border: none;
+  border-top: 2px solid #e8f5f5;
+  margin: 2.5rem 0;
+}
+
+.page-hero {
+  background: linear-gradient(135deg, #1a4a4a, #2a7070);
+  color: #e8f5f5;
+  padding: 3rem 0 2.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.page-hero h1 {
+  font-family: 'DM Serif Display', serif;
+  color: white;
+  font-weight: 400;
+  margin-bottom: 0.5rem;
+}
+
+.page-hero p {
+  color: rgba(232,245,245,0.8);
+  font-weight: 300;
+}
+
+/* ── Responsive ── */
+@media (max-width: 768px) {
+  .hero { padding: 3.5rem 0 2.5rem; }
+  .news-item { flex-direction: column; gap: 0.5rem; }
+  .news-date { display: flex; align-items: baseline; gap: 0.5rem; }
+}
