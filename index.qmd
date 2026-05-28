@@ -9,12 +9,10 @@ toc: false
 <section class="hero">
   <div class="container">
     <div class="hero-inner">
-      <div class="hero-tag">PhD Research Project · University</div>
-      <h1>Wellbeing, Mental Health,<br>Inequalities &amp; Choices</h1>
+      <div class="hero-tag">The Well-being Multi-Instrument Comparison Study (W-MIC) </div>
+      <h1>Wellbeing as Outcome<br>in Economic Evaluations </h1>
       <p class="lead">
-        Exploring the economic and psychological dimensions of wellbeing inequality —
-        how individual choices, mental health, and social structures interact to shape
-        health outcomes across populations.
+        Multiple wellbeing measures have been developed to be used in economic evaluations of curative and non-curative care. But are all these measures equal? Do they provide the same assessment of wellbeing? And do they perform equally in different populations, for example older or social care populations? The W-MIC study hopes to answer this question.
       </p>
       <a href="project.qmd" class="btn-hero">About the Project</a>
       <a href="publications/index.qmd" class="btn-outline-hero">Publications</a>
@@ -22,7 +20,7 @@ toc: false
   </div>
 </section>
 
-<!-- KEY THEMES -->
+<!-- KEY CHARACTERISTICS -->
 <section class="container mb-5">
   <div class="text-center mb-4">
     <div class="section-label">Research Focus</div>
@@ -32,22 +30,22 @@ toc: false
     <div class="col-md-4">
       <div class="wmic-card">
         <div class="card-icon">🧠</div>
-        <h3>Mental Health &amp; Wellbeing</h3>
-        <p>Investigating the interplay between mental health conditions, subjective wellbeing, and quality of life using validated psychometric tools.</p>
-      </div>
-    </div>
-    <div class="col-md-4">
-      <div class="wmic-card">
-        <div class="card-icon">⚖️</div>
-        <h3>Health Inequalities</h3>
-        <p>Examining socioeconomic gradients in health and mental wellbeing, with a focus on understanding and reducing disparities across population groups.</p>
+        <h3>Large, Open-Access Datasets</h3>
+        <p>The study collected data from over 7,000 participants from the general public, older adults, and individuals with chronic health conditions, making it the largest dataset on health and well-being measures.</p>
       </div>
     </div>
     <div class="col-md-4">
       <div class="wmic-card">
         <div class="card-icon">📊</div>
-        <h3>Health Economics</h3>
-        <p>Applying economic frameworks — including preference measurement, utility theory, and cost-effectiveness analysis — to mental health and wellbeing research.</p>
+        <h3>Number of Health and Wellbeing instruments</h3>
+        <p>The survey included a large number of wellbeing instruments, including the ASCOT-STC4, EQ-HWB-9, ICECAP-A/O, QOL-ACC, SWB-5D, WiX, and WOOP, alongside demographic questions, disease-specific and generic health (e.g., EQ-5D-5L, PHQ-15) and wellbeing measures (e.g., SWLS).</p>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="wmic-card">
+        <div class="card-icon">📊</div>
+        <h3>Application in Clinical Settings</h3>
+        <p>The project also included two case studies to evaluate the fit-for-purpose of these instruments in clinical settings.</p>
       </div>
     </div>
   </div>
@@ -67,9 +65,9 @@ toc: false
 
   <div class="news-item">
     <div class="news-date">
-      <div class="month">Jan</div>
-      <div class="day">15</div>
-      <div class="year">2025</div>
+      <div class="month">Sep</div>
+      <div class="day">01</div>
+      <div class="year">2024</div>
     </div>
     <div class="news-content">
       <h4>Project officially launched</h4>
@@ -91,25 +89,33 @@ toc: false
     <div class="col-md-3 col-sm-6">
       <div class="wmic-card team-card">
         <div class="team-avatar-placeholder">A</div>
-        <h4>Your Name</h4>
-        <div class="role">PhD Researcher</div>
-        <p>Principal investigator and PhD candidate.</p>
+        <h4>Andrea De Palma</h4>
+        <div class="role">PhD Candidate</div>
+        <p>Main researcher involved in the execution of the W-MIC project.</p>
       </div>
     </div>
     <div class="col-md-3 col-sm-6">
       <div class="wmic-card team-card">
         <div class="team-avatar-placeholder">S</div>
-        <h4>Supervisor Name</h4>
+        <h4>Elly Stolk</h4>
         <div class="role">Primary Supervisor</div>
-        <p>Brief description of their role and expertise.</p>
+        <p>W-MIC principal investigator and Professor of Measurement and Valuation of Health.</p>
+      </div>
+    </div>
+   <div class="col-md-3 col-sm-6">
+      <div class="wmic-card team-card">
+        <div class="team-avatar-placeholder">S</div>
+        <h4>Job van Exel</h4>
+        <div class="role">Secondary Supervisor</div>
+        <p>Full professor of Health Economics.</p>
       </div>
     </div>
     <div class="col-md-3 col-sm-6">
       <div class="wmic-card team-card">
         <div class="team-avatar-placeholder">S</div>
-        <h4>Supervisor Name</h4>
+        <h4>Aureliano Paolo Finch</h4>
         <div class="role">Secondary Supervisor</div>
-        <p>Brief description of their role and expertise.</p>
+        <p>Senior Researcher at the EuroQol Research Foundation.</p>
       </div>
     </div>
   </div>
