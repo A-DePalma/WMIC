@@ -1,0 +1,51 @@
+---
+title: ""
+toc: false
+---
+
+```{=html}
+<div class="page-hero">
+  <div class="container">
+    <h1>News &amp; Updates</h1>
+    <p>Latest from the WMIC project — milestones, events, and announcements</p>
+  </div>
+</div>
+
+<div class="container">
+
+  <!-- Copy a news-item block to add new entries. Most recent at the top. -->
+
+  <div class="news-item">
+    <div class="news-date">
+      <div class="month">Jan</div>
+      <div class="day">15</div>
+      <div class="year">2025</div>
+    </div>
+    <div class="news-content">
+      <h4>Project officially launched 🎉</h4>
+      <p>
+        The WMIC PhD project has formally started at [University name]. 
+        Over the coming months, this site will be updated with project news, 
+        publications, and resources as the research develops.
+      </p>
+    </div>
+  </div>
+
+  <!-- Example of a second news item (replace with real content) -->
+  <div class="news-item">
+    <div class="news-date">
+      <div class="month">Month</div>
+      <div class="day">DD</div>
+      <div class="year">YYYY</div>
+    </div>
+    <div class="news-content">
+      <h4>News item title</h4>
+      <p>
+        Describe the event, milestone, paper submission, conference presentation,
+        or other update here. Keep it brief — 2–3 sentences.
+      </p>
+    </div>
+  </div>
+
+</div>
+```
