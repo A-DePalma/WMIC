@@ -1,1 +1,69 @@
+---
+title: ""
+toc: false
+---
 
+```{=html}
+<div class="page-hero">
+  <div class="container">
+    <h1>The Team</h1>
+    <p>The people behind the WMIC project</p>
+  </div>
+</div>
+
+<div class="container">
+
+  <!-- PhD Researcher -->
+  <div class="row align-items-center mb-5 pb-4" style="border-bottom:1px solid rgba(42,112,112,0.1)">
+    <div class="col-md-3 text-center">
+      <div class="team-avatar-placeholder mx-auto">A</div>
+    </div>
+    <div class="col-md-9">
+      <h3 style="font-family:'DM Serif Display',serif;color:#1a4a4a;font-weight:400">Your Full Name</h3>
+      <div class="role mb-2" style="font-size:0.85rem;font-weight:500;letter-spacing:0.05em;text-transform:uppercase;color:#3d9e9e">PhD Researcher</div>
+      <p style="color:#607d7d;line-height:1.7">
+        Write a short bio here — your background, what drew you to this topic, your main research interests. 
+        2–4 sentences is plenty for a project website.
+      </p>
+      <div style="display:flex;gap:1rem;flex-wrap:wrap;margin-top:0.75rem">
+        <a href="mailto:your.email@university.ac.uk" style="color:#3d9e9e;font-size:0.88rem;text-decoration:none">✉ your.email@university.ac.uk</a>
+        <a href="https://orcid.org/0000-0000-0000-0000" style="color:#3d9e9e;font-size:0.88rem;text-decoration:none" target="_blank">🔗 ORCID</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Supervisor 1 -->
+  <div class="row align-items-center mb-5 pb-4" style="border-bottom:1px solid rgba(42,112,112,0.1)">
+    <div class="col-md-3 text-center">
+      <div class="team-avatar-placeholder mx-auto">S</div>
+    </div>
+    <div class="col-md-9">
+      <h3 style="font-family:'DM Serif Display',serif;color:#1a4a4a;font-weight:400">Supervisor Full Name</h3>
+      <div class="role mb-2" style="font-size:0.85rem;font-weight:500;letter-spacing:0.05em;text-transform:uppercase;color:#3d9e9e">Primary Supervisor · Title, Institution</div>
+      <p style="color:#607d7d;line-height:1.7">
+        Brief description of the supervisor's background, expertise, and their role in this project.
+      </p>
+      <div style="display:flex;gap:1rem;flex-wrap:wrap;margin-top:0.75rem">
+        <a href="https://university.ac.uk/staff/supervisor" style="color:#3d9e9e;font-size:0.88rem;text-decoration:none" target="_blank">🔗 University profile</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Supervisor 2 -->
+  <div class="row align-items-center mb-5">
+    <div class="col-md-3 text-center">
+      <div class="team-avatar-placeholder mx-auto">S</div>
+    </div>
+    <div class="col-md-9">
+      <h3 style="font-family:'DM Serif Display',serif;color:#1a4a4a;font-weight:400">Supervisor Full Name</h3>
+      <div class="role mb-2" style="font-size:0.85rem;font-weight:500;letter-spacing:0.05em;text-transform:uppercase;color:#3d9e9e">Secondary Supervisor · Title, Institution</div>
+      <p style="color:#607d7d;line-height:1.7">
+        Brief description of the supervisor's background, expertise, and their role in this project.
+      </p>
+      <div style="display:flex;gap:1rem;flex-wrap:wrap;margin-top:0.75rem">
+        <a href="https://university.ac.uk/staff/supervisor2" style="color:#3d9e9e;font-size:0.88rem;text-decoration:none" target="_blank">🔗 University profile</a>
+      </div>
+    </div>
+  </div>
+</div>
+```
