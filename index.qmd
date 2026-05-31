@@ -16,7 +16,6 @@ toc: false
     <a href="project.qmd" class="btn-hero">About the Project</a>
     <a href="publications/index.qmd" class="btn-outline-hero">Publications</a>
   </div>
-</div>
 </section>
 
 <!-- KEY CHARACTERISTICS -->
