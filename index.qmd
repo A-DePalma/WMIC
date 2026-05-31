@@ -18,7 +18,7 @@ toc: false
     <a href="publications/index.qmd" class="btn-outline-hero">Publications</a>
   </div>
   <div style="flex-shrink:0; opacity:0.92;">
-    <img src="images/WMIC_logo.png" alt="WMIC logo" style="max-width:220px; max-height:180px; object-fit:contain; filter:brightness(0) invert(1);">
+    <img src="/WMIC/images/WMIC_logo.png" alt="WMIC logo" style="max-width:200px; max-height:160px; object-fit:contain; filter:brightness(0) invert(1); opacity:0.85; border-radius:8px;">
   </div>
   </div>
 </section>
