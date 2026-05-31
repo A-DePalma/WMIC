@@ -57,19 +57,6 @@ toc: false
     </div>
   </div>
 
- <div class="news-item">
-    <div class="news-date">
-      <div class="month">Feb</div>
-      <div class="day">13</div>
-      <div class="year">2025</div>
-    </div>
-    <div class="news-content">
-      <h4>Ethics approval 🎉</h4>
-      <p>
-        The WMIC PhD project has officially received ethics approval from the Ethics board of the Erasmus School of Health Policy and Management (ETH2425-0073)!
-      </p>
-    </div>
-  </div>
 
   <div class="news-item">
     <div class="news-date">
