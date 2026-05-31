@@ -10,8 +10,20 @@
   margin-bottom: 3rem;
   position: relative;
   overflow: hidden;
+}
+
+.quarto-title-block .hero,
+#quarto-content .hero,
+.page-full .hero,
+main.content .hero {
   width: 100vw;
   margin-left: calc(-50vw + 50%);
+}
+
+body.page-full main.content {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  overflow-x: hidden;
 }
 
 .hero::before {
