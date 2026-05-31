@@ -15,34 +15,72 @@ toc: false
 
   <!-- Copy a news-item block to add new entries. Most recent at the top. -->
 
-  <div class="news-item">
+ <div class="news-item">
     <div class="news-date">
-      <div class="month">Jan</div>
-      <div class="day">15</div>
+      <div class="month">Dec</div>
+      <div class="day">05</div>
       <div class="year">2025</div>
     </div>
     <div class="news-content">
-      <h4>Project officially launched 🎉</h4>
+      <h4>First case study participant 🎉</h4>
       <p>
-        The WMIC PhD project has formally started at [University name]. 
-        Over the coming months, this site will be updated with project news, 
-        publications, and resources as the research develops.
+        The first WMIC case study participant has been interviewed. Data collection for the case studies is officially open! (ETH2425-0925)
       </p>
     </div>
   </div>
 
-  <!-- Example of a second news item (replace with real content) -->
-  <div class="news-item">
+<div class="news-item">
     <div class="news-date">
-      <div class="month">Month</div>
-      <div class="day">DD</div>
-      <div class="year">YYYY</div>
+      <div class="month">Sep</div>
+      <div class="day">09</div>
+      <div class="year">2025</div>
     </div>
     <div class="news-content">
-      <h4>News item title</h4>
+      <h4> Data collection completed! 🎉</h4>
       <p>
-        Describe the event, milestone, paper submission, conference presentation,
-        or other update here. Keep it brief — 2–3 sentences.
+        Data collection for our large cross-sectional survey on health and wellbeing is completed. This includes also two follow-ups assessment two weeks and three months after!
+      </p>
+    </div>
+  </div>
+
+ <div class="news-item">
+    <div class="news-date">
+      <div class="month">Feb</div>
+      <div class="day">13</div>
+      <div class="year">2025</div>
+    </div>
+    <div class="news-content">
+      <h4>Ethics approval 🎉</h4>
+      <p>
+        The WMIC PhD project has officially received ethics approval from the Ethics board of the Erasmus School of Health Policy and Management for our large cross-sectional survey (ETH2425-0925)!
+      </p>
+    </div>
+  </div>
+
+ <div class="news-item">
+    <div class="news-date">
+      <div class="month">Feb</div>
+      <div class="day">13</div>
+      <div class="year">2025</div>
+    </div>
+    <div class="news-content">
+      <h4>Ethics approval 🎉</h4>
+      <p>
+        The WMIC PhD project has officially received ethics approval from the Ethics board of the Erasmus School of Health Policy and Management (ETH2425-0073)!
+      </p>
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">
+      <div class="month">Sep</div>
+      <div class="day">01</div>
+      <div class="year">2024</div>
+    </div>
+    <div class="news-content">
+      <h4>Project officially launched 🎉</h4>
+      <p>
+        The WMIC PhD project has formally started. Looking forward to sharing updates on methods, findings, and events throughout the research journey.
       </p>
     </div>
   </div>
