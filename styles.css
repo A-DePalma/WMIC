@@ -121,6 +121,7 @@ body.page-full main.content {
   text-transform: uppercase;
   color: #3d9e9e;
   margin-bottom: 0.5rem;
+  text-align: center;
 }
 
 .section-title {
@@ -129,6 +130,7 @@ body.page-full main.content {
   color: #1a4a4a;
   font-weight: 400;
   margin-bottom: 0.75rem;
+  text-align: center;
 }
 
 /* ── Cards ── */
