@@ -10,6 +10,8 @@
   margin-bottom: 3rem;
   position: relative;
   overflow: hidden;
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
 }
 
 .hero::before {
