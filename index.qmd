@@ -7,7 +7,8 @@ toc: false
 ```{=html}
 <!-- HERO -->
 <section class="hero">
-  <div class="hero-inner">
+  <div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:2rem;">
+  <div class="hero-inner" style="flex:1; min-width:280px;">
     <div class="hero-tag">The Well-being Multi-Instrument Comparison Study (W-MIC) </div>
     <h1>Wellbeing as Outcome<br>in Economic Evaluations </h1>
     <p class="lead">
@@ -15,6 +16,10 @@ toc: false
     </p>
     <a href="project.qmd" class="btn-hero">About the Project</a>
     <a href="publications/index.qmd" class="btn-outline-hero">Publications</a>
+  </div>
+  <div style="flex-shrink:0; opacity:0.92;">
+    <img src="images/WMIC_logo.png" alt="WMIC logo" style="max-width:220px; max-height:180px; object-fit:contain; filter:brightness(0) invert(1);">
+  </div>
   </div>
 </section>
 
