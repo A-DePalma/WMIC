@@ -17,8 +17,8 @@ toc: false
 
       <div class="contact-wrapper">
         <p style="color:#607d7d;margin-bottom:2rem;line-height:1.7">
-          Whether you have questions about the research, are interested in collaboration,
-          or would like to be notified of new publications and updates — feel free to reach out.
+          Use the form below to reach out to the WMIC team. We are happy to answer any questions about the research, to discuss possible collaborations,
+          or to have a chat about measuring wellbeing.
         </p>
 
         <!-- 
@@ -28,7 +28,7 @@ toc: false
           3. Replace YOUR_FORM_ID below with your actual ID
           The free tier allows 50 submissions/month which is plenty for a research website.
         -->
-        <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+        <form action="https://formspree.io/f/xgoqjwlz" method="POST">
 
           <div class="mb-3">
             <label for="name">Name</label>
@@ -63,18 +63,12 @@ toc: false
 
         <div style="margin-bottom:1.5rem">
           <div style="font-size:0.8rem;font-weight:500;text-transform:uppercase;letter-spacing:0.07em;color:#3d9e9e;margin-bottom:0.3rem">Email</div>
-          <a href="mailto:your.email@university.ac.uk" style="color:#1a4a4a;text-decoration:none">your.email@university.ac.uk</a>
+          <a href="mailto:	wmicstudy@gmail.com" style="color:#1a4a4a;text-decoration:none">wmicstudy@gmail.com</a>
         </div>
 
         <div style="margin-bottom:1.5rem">
           <div style="font-size:0.8rem;font-weight:500;text-transform:uppercase;letter-spacing:0.07em;color:#3d9e9e;margin-bottom:0.3rem">Institution</div>
-          <span style="color:#607d7d">Your Department<br>Your University<br>City, Country</span>
-        </div>
-
-        <div style="margin-bottom:1.5rem">
-          <div style="font-size:0.8rem;font-weight:500;text-transform:uppercase;letter-spacing:0.07em;color:#3d9e9e;margin-bottom:0.3rem">Links</div>
-          <a href="https://orcid.org/0000-0000-0000-0000" style="color:#3d9e9e;text-decoration:none;display:block;margin-bottom:0.3rem" target="_blank">ORCID profile</a>
-          <a href="https://github.com/A-DePalma" style="color:#3d9e9e;text-decoration:none;display:block" target="_blank">GitHub profile</a>
+          <span style="color:#607d7d">Erasmus School of Health Policy & Management<br>Erasmus University Rotterdam<br>Rotterdam, The Netherlands</span>
         </div>
 
       </div>
