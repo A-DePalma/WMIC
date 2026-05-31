@@ -10,7 +10,7 @@ website:
   navbar:
     background: primary
     pinned: true
-    logo: images/logo.png
+    logo: images/WMIC_logo.png
     logo-alt: "WMIC"
     left:
       - text: "Home"
