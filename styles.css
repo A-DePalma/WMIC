@@ -133,6 +133,13 @@ body.page-full main.content {
   text-align: center;
 }
 
+.section-label,
+.section-title {
+  display: block;
+  width: 100%;
+  text-align: center !important;
+}
+
 /* ── Cards ── */
 .wmic-card {
   background: #ffffff;
