@@ -17,8 +17,8 @@ toc: false
     <a href="project.qmd" class="btn-hero">About the Project</a>
     <a href="publications/index.qmd" class="btn-outline-hero">Publications</a>
   </div>
-  <div style="flex-shrink:0; opacity:0.92; display:flex; align-items:center; justify-content:center; padding-right:4rem;">
-    <img src="/WMIC/images/WMIC_logo.png" alt="WMIC logo" style="max-width:280px; max-height:220px; object-fit:contain; border-radius:12px; box-shadow:0 4px 24px rgba(0,0,0,0.18);">
+  <div style="width:300px; flex-shrink:0; display:flex; align-items:center; justify-content:center;">
+    <img src="/WMIC/images/WMIC_logo.png" alt="WMIC logo" width="280" height="220" style="object-fit:contain; border-radius:12px; box-shadow:0 4px 24px rgba(0,0,0,0.18);">
   </div>
   </div>
 </section>
