@@ -471,3 +471,40 @@ body.page-full main.content {
   .news-item { flex-direction: column; gap: 0.5rem; }
   .news-date { display: flex; align-items: baseline; gap: 0.5rem; }
 }
+
+/* Force centre alignment on all section headings */
+h1, h2, h3 {
+  text-align: inherit;
+}
+
+.text-center h1,
+.text-center h2,
+.text-center h3,
+div[style*="text-align:center"] h1,
+div[style*="text-align:center"] h2,
+div[style*="text-align:center"] h3,
+div[style*="text-align: center"] h1,
+div[style*="text-align: center"] h2,
+div[style*="text-align: center"] h3 {
+  text-align: center !important;
+  width: 100%;
+}
+
+/* Remove the horizontal rule Quarto adds under headings */
+.section-title::after,
+h2.section-title::after {
+  display: none;
+}
+
+/* Centre team card content */
+.team-card,
+.team-card h4,
+.team-card .role,
+.team-card p {
+  text-align: center !important;
+}
+
+main h2 + hr,
+.content h2 + hr {
+  display: none !important;
+}
