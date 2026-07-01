@@ -510,3 +510,32 @@ main hr,
 section hr {
   display: none !important;
 }
+
+/* Override Quarto's default left-alignment on all headings in content */
+#quarto-content h1,
+#quarto-content h2,
+#quarto-content h3,
+#quarto-content h4,
+.quarto-title h1,
+.quarto-title h2 {
+  text-align: inherit;
+}
+
+/* Target section headings specifically */
+section.container h2,
+div.container h2,
+.wmic-card h3,
+.wmic-card h4 {
+  text-align: inherit;
+}
+
+/* Force centering on elements that have a centred parent */
+[style*="text-align:center"] *,
+[style*="text-align: center"] * {
+  text-align: center !important;
+}
+
+/* Team card names and roles specifically */
+.team-card * {
+  text-align: center !important;
+}
