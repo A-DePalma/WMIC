@@ -71,7 +71,7 @@ toc: false
         <div class="year">2025</div>
       </div>
       <div class="news-content">
-        <h4>Project officially launched</h4>
+        <div style="font-family:'DM Serif Display',Georgia,serif; color:#1a4a4a; font-weight:400; margin-bottom:0.2rem; text-align:center;">Project officially launched</div>
         <p>The WMIC PhD project has formally started. Looking forward to sharing updates on methods, findings, and events throughout the research journey.</p>
       </div>
     </div>
@@ -96,15 +96,15 @@ toc: false
     <div class="col-md-3 col-sm-6">
       <div class="wmic-card team-card">
         <div class="team-avatar-placeholder">A</div>
-        <h4>Andrea De Palma</h4>
+        <div style="font-family:'DM Serif Display',Georgia,serif; color:#1a4a4a; font-weight:400; margin-bottom:0.2rem; text-align:center;">Andrea De Palma</div>
         <div class="role">PhD Candidate</div>
-        <p>Main researcher involved in the execution of the W-MIC project.</p>
+        <p>PhD researcher involved in the execution of the W-MIC project.</p>
       </div>
     </div>
     <div class="col-md-3 col-sm-6">
       <div class="wmic-card team-card">
         <div class="team-avatar-placeholder">S</div>
-        <h4>Elly Stolk</h4>
+        <div style="font-family:'DM Serif Display',Georgia,serif; color:#1a4a4a; font-weight:400; margin-bottom:0.2rem; text-align:center;">Elly Stolk</div>
         <div class="role">Primary Supervisor</div>
         <p>W-MIC principal investigator and Professor of Measurement and Valuation of Health.</p>
       </div>
@@ -112,17 +112,17 @@ toc: false
    <div class="col-md-3 col-sm-6">
       <div class="wmic-card team-card">
         <div class="team-avatar-placeholder">S</div>
-        <h4>Job van Exel</h4>
+        <div style="font-family:'DM Serif Display',Georgia,serif; color:#1a4a4a; font-weight:400; margin-bottom:0.2rem; text-align:center;">Job van Exel</div>
         <div class="role">Secondary Supervisor</div>
-        <p>Full professor of Health Economics.</p>
+        <p>W-MIC principal investigator and Full Professor of Health Economics.</p>
       </div>
     </div>
     <div class="col-md-3 col-sm-6">
       <div class="wmic-card team-card">
         <div class="team-avatar-placeholder">S</div>
-        <h4>Aureliano Paolo Finch</h4>
+        <div style="font-family:'DM Serif Display',Georgia,serif; color:#1a4a4a; font-weight:400; margin-bottom:0.2rem; text-align:center;">Aureliano Paolo Finch</div>
         <div class="role">Secondary Supervisor</div>
-        <p>Senior Researcher at the EuroQol Research Foundation.</p>
+        <p>W-MIC principal investigator and Senior Researcher at the EuroQol Research Foundation.</p>
       </div>
     </div>
   </div>
