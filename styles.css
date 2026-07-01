@@ -504,7 +504,9 @@ h2.section-title::after {
   text-align: center !important;
 }
 
-main h2 + hr,
-.content h2 + hr {
+main hr,
+#quarto-content hr,
+.page-full hr,
+section hr {
   display: none !important;
 }
