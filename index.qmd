@@ -27,7 +27,7 @@ toc: false
 <section class="container mb-5">
   <div style="text-align:center; margin-bottom:1.5rem;">
     <div class="section-label" style="text-align:center;">Research Focus</div>
-    <h2 class="section-title" style="text-align:center;">Key Themes</h2>
+    <div style="font-family:'DM Serif Display',Georgia,serif; font-size:1.9rem; color:#1a4a4a; font-weight:400; margin-bottom:0.75rem; text-align:center;">Key Themes</div>
   </div>
   <div class="row g-4">
     <div class="col-md-4">
@@ -60,7 +60,7 @@ toc: false
 <section class="container mb-5">
   <div style="text-align:center; margin-bottom:2rem;">
     <div class="section-label">Latest</div>
-    <h2 class="section-title">News &amp; Updates</h2>
+    <div style="font-family:'DM Serif Display',Georgia,serif; font-size:1.9rem; color:#1a4a4a; font-weight:400; margin-bottom:0.75rem; text-align:center;">News &amp; Updates</div>
   </div>
 
   <div style="max-width:680px; margin:0 auto;">
@@ -90,7 +90,7 @@ toc: false
 <section class="container mb-5">
   <div style="text-align:center; margin-bottom:1.5rem;">
     <div class="section-label" style="text-align:center;">Who we are</div>
-    <h2 class="section-title" style="text-align:center;">The team</h2>
+    <div style="font-family:'DM Serif Display',Georgia,serif; font-size:1.9rem; color:#1a4a4a; font-weight:400; margin-bottom:0.75rem; text-align:center;">The team</div>
   </div>
   <div class="row justify-content-center g-4">
     <div class="col-md-3 col-sm-6">
