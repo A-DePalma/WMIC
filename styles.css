@@ -274,8 +274,9 @@ body.page-full main.content {
   vertical-align: middle;
 }
 
-.pub-badge.preprint { background: #fdf3e0; color: #b07820; border: 1px solid #f0cc80; }
 .pub-badge.published { background: #e8f5f5; color: #2a7070; border: 1px solid #a0d4d4; }
+.pub-badge.under-review { background: #f0eeff; color: #5b4abf; border: 1px solid #c4b8f5; }
+.pub-badge.working-paper { background: #fff0f0; color: #a03030; border: 1px solid #f5b8b8; }
 
 /* ── News items ── */
 .news-item {
