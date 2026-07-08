@@ -249,6 +249,7 @@ body.page-full main.content {
   color: #1a4a4a;
   font-weight: 500;
   margin-bottom: 0.3rem;
+  margin-top: 0.25rem;
   font-family: 'DM Sans', sans-serif;
 }
 
@@ -277,6 +278,16 @@ body.page-full main.content {
 .pub-badge.published { background: #e8f5f5; color: #2a7070; border: 1px solid #a0d4d4; }
 .pub-badge.under-review { background: #f0eeff; color: #5b4abf; border: 1px solid #c4b8f5; }
 .pub-badge.working-paper { background: #fff0f0; color: #a03030; border: 1px solid #f5b8b8; }
+
+.pub-item {
+  padding-left: 0;
+}
+
+.pub-item h4,
+.pub-item .pub-badge {
+  margin-left: 0;
+  padding-left: 0;
+}
 
 /* ── News items ── */
 .news-item {
