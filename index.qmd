@@ -33,21 +33,21 @@ toc: false
       <div class="wmic-card">
         <div class="card-icon">🧠</div>
         <h3>Large, Open-Access Datasets</h3>
-        <p>The study collected data from over 7,000 participants from the general public, older adults, and individuals with chronic health conditions, making it the largest dataset on health and well-being measures.</p>
+        <p>The study collected data from over 7,000 participants living in the Netherlands and the United States. Participants included members from the general public, older adults, individuals with chronic health conditions and social care users, making it the largest dataset on health and well-being measures.</p>
       </div>
     </div>
     <div class="col-md-4">
       <div class="wmic-card">
         <div class="card-icon">📊</div>
         <h3>Number of Health and Wellbeing instruments</h3>
-        <p>The survey included a large number of wellbeing instruments, including the ASCOT-STC4, EQ-HWB-9, ICECAP-A/O, QOL-ACC, SWB-5D, WiX, and WOOP, alongside demographic questions, disease-specific and generic health (e.g., EQ-5D-5L, PHQ-15) and wellbeing measures (e.g., SWLS).</p>
+        <p>The survey included a large number of wellbeing instruments, including the ASCOT-STC4, EQ-HWB-9, ICECAP-A/O, QOL-ACC, SWB-5D, WiX, and WOOP, alongside demographic questions, disease-specific, generic health (e.g., EQ-5D-5L, PHQ-15) and wellbeing measures (e.g., SWLS).</p>
       </div>
     </div>
     <div class="col-md-4">
       <div class="wmic-card">
         <div class="card-icon">📊</div>
         <h3>Application in Clinical Settings</h3>
-        <p>The project also included two case studies to evaluate the fit-for-purpose of these instruments in clinical settings.</p>
+        <p>The project aimed to evaluate the fit-for-purpose of wellbeing instruments in clinical settings and conducted two case studies in people with cognitive impairments or undergoing physical rehabilitations.</p>
       </div>
     </div>
   </div>
