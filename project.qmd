@@ -14,8 +14,6 @@ toc: true
 
 ## Overview
 
-## Overview
-
 Preference-weighted generic instruments used in economic evaluations may provide a partial assessment of effects when the scope of an intervention extends beyond health. This is particularly relevant in non-curative care settings — such as social care, rehabilitation, or services for older adults — where the benefits of interventions are broader than what standard health measures capture.
 
 Multiple wellbeing instruments have been developed to expand the scope of economic evaluations, but selecting the most appropriate one remains challenging. Instruments differ in their theoretical foundations, scope, target populations, and stage of development, meaning that using different instruments to assess the same technology or service may yield different conclusions about its benefits.
@@ -55,12 +53,6 @@ The W-MIC project is funded by **ZonMw** (the Netherlands Organisation for Healt
 :::
 
 ## Timeline
-
-| Phase | Period | Description |
-|-------|--------|-------------|
-| Phase 1 | 2024–2025 | Literature review, framework development |
-| Phase 2 | 2025–2026 | Data collection and analysis |
-| Phase 3 | 2026–2027 | Dissemination and thesis write-up |
 
 | Phase | Period | Description |
 |-------|--------|-------------|
