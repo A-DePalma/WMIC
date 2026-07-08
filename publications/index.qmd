@@ -21,28 +21,28 @@ toc: false
   </ul>
 
   <div class="pub-item">
-    <span class="pub-badge working-paper" style="margin-bottom:0.25rem;display:inline-block;">Working paper</span>
+    <span class="pub-badge working-paper" style="margin-bottom:0.25rem;display:inline-block;padding:0.35rem 1rem;">Working paper</span>
     <h4>Different Measures, Different People? A Person-Centered Comparison of Four Wellbeing Instruments</h4>
     <div class="authors">De Palma A, Caliciuri R, van Exel J, Sorgente A</div>
     <div class="journal">2026 · DOI: TBA</div>
   </div>
 
   <div class="pub-item">
-    <span class="pub-badge working-paper" style="margin-bottom:0.25rem;display:inline-block;">Working paper</span>
+    <span class="pub-badge working-paper" style="margin-bottom:0.25rem;display:inline-block;padding:0.35rem 1rem;">Working paper</span>
     <h4>What do we measure when we measure wellbeing? A Dimensionality Assessment of Multiple Wellbeing Instruments</h4>
     <div class="authors">De Palma A, Finch AP, van Exel J, Stolk E</div>
     <div class="journal">2026 · DOI: TBA</div>
   </div>
 
   <div class="pub-item">
-    <span class="pub-badge working-paper" style="margin-bottom:0.25rem;display:inline-block;">Working paper</span>
+    <span class="pub-badge working-paper" style="margin-bottom:0.25rem;display:inline-block;padding:0.35rem 1rem;">Working paper</span>
     <h4>Psychometric results from the Wellbeing Multi-Instrument Comparison study</h4>
     <div class="authors">De Palma A, Finch AP, van Exel J, Stolk E</div>
     <div class="journal">2026 · DOI: TBA</div>
   </div>
 
   <div class="pub-item">
-    <span class="pub-badge under-review" style="margin-bottom:0.25rem;display:inline-block;">Under review</span>
+    <span class="pub-badge under-review" style="margin-bottom:0.25rem;display:inline-block;padding:0.35rem 1rem;">Under review</span>
     <h4>Measuring Wellbeing For Economic Evaluations: An Overview Of The Wellbeing Multi-Instrument Comparison (W-MIC) Study and Its Open-Access, Large Dataset</h4>
     <div class="authors">De Palma A, Finch AP, van Exel J, Van der Akker-Van Marle ME, Bosmans JE, Stolk E</div>
     <div class="journal">2026 · DOI: TBA</div>
