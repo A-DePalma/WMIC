@@ -14,37 +14,44 @@ toc: true
 
 ## Overview
 
-*Replace this text with your own project description.* This project investigates the relationship between wellbeing, mental health, inequalities, and individual choices using a mixed-methods approach grounded in health economics and psychology.
+## Overview
 
-The research draws on large-scale survey data, economic preference elicitation, and psychometric measurement to understand how wellbeing is distributed across populations — and what drives those distributions.
+Preference-weighted generic instruments used in economic evaluations may provide a partial assessment of effects when the scope of an intervention extends beyond health. This is particularly relevant in non-curative care settings — such as social care, rehabilitation, or services for older adults — where the benefits of interventions are broader than what standard health measures capture.
 
-## Aims & Objectives
+Multiple wellbeing instruments have been developed to expand the scope of economic evaluations, but selecting the most appropriate one remains challenging. Instruments differ in their theoretical foundations, scope, target populations, and stage of development, meaning that using different instruments to assess the same technology or service may yield different conclusions about its benefits.
 
-The project has three core aims:
-
-1. **Characterise wellbeing inequalities** — Describe the distribution of mental health and subjective wellbeing across socioeconomic groups using representative population data.
-
-2. **Understand the role of choice** — Examine how individual preferences, risk attitudes, and decision-making styles interact with socioeconomic circumstances to shape health-related outcomes.
-
-3. **Inform policy** — Translate findings into actionable recommendations for health policy and resource allocation, using cost-effectiveness and welfare-economic frameworks.
-
-## Methodology
-
-The project employs a range of quantitative methods including:
-
-- **Survey-based preference measurement** (e.g. discrete choice experiments, willingness-to-pay)
-- **Psychometric tools** for wellbeing and mental health (e.g. EQ-5D, WEMWBS, PHQ-9)
-- **Econometric modelling** (regression analysis, decomposition methods, latent variable models)
-- **Systematic review and meta-analysis** where appropriate
+The W-MIC study was developed to address this methodological gap. Funded by ZonMw, it provides a large, open-access dataset and a systematic comparison of leading wellbeing instruments across diverse populations and care contexts.
 
 ## Context & Motivation
 
-*Add a paragraph here about what motivated the project, the gap in the literature it addresses, or the policy context that makes it relevant.*
+Economic evaluations of health technologies and services typically rely on preference-weighted health measures such as the EQ-5D. While well-validated in curative care, these instruments may not adequately capture the full range of benefits in non-curative settings, where interventions aim to improve broader aspects of wellbeing rather than health per se. A growing number of wellbeing instruments have been proposed as alternatives, but the evidence base for their use in economic evaluation remains limited and fragmented. The W-MIC study was designed to fill this gap by generating comparable, large-scale evidence on multiple instruments simultaneously, using a harmonised dataset made openly available for secondary research.
+
+## Aims & Objectives
+
+The W-MIC project has three overarching aims:
+
+1. **Dataset generation** - Build a large, open-access dataset in health and wellbeing that can be leveraged for multiple research purposes by anyone.
+
+1. **Psychometric validation** — Provide systematic evidence on the psychometric properties of multiple wellbeing instruments across different populations and non-curative care contexts, including their distributional properties, reliability, and construct validity.
+
+2. **Instrument comparison** — Evaluate how these instruments perform relative to one another, and whether differences in their theoretical foundations, scope, or target populations lead to different conclusions when used to assess health technologies and services.
+
+Together, these aims are intended to support researchers, health technology assessment (HTA) bodies, policy makers, and developers of health and social care technologies in selecting appropriate outcome measures for economic evaluations.
+
+## Study Design
+
+The project is structured in two parts.
+
+**Part 1 — Cross-sectional survey.** A large online survey was conducted in the Netherlands and the United States, targeting a sample of approximately 7,000 adults. The survey included seven wellbeing instruments — ASCOT-STC4, EQ-HWB-9, ICECAP-A/O, QOL-ACC, SWB-5D, WiX, and WOOP — alongside measures of general health (EQ-5D-5L, PHQ-15, self-reported overall health status and health satisfaction) and subjective wellbeing (SWLS, OECD eudaimonic questions, SPANE), as well as demographic information. The target sample included four subgroups: the general public, older adults, individuals with chronic health conditions, and social care users. A follow-up measurement was conducted in a subgroup of participants at two weeks and three months after the initial survey. Data quality was systematically assessed using a series of indicators targeting response inconsistency and careless responding.
+
+**Part 2 — Clinical case studies.** Two case studies were conducted in non-curative care settings to evaluate the fit-for-purpose of the wellbeing instruments in applied clinical contexts. These involved participants with cognitive impairments and individuals undergoing physical rehabilitation.
+
+Analyses draw on psychometric and statistical methods and will explore descriptive distributions, reliability, convergent and known-group validity  across instruments and subgroups as well other advanted statistical methods such as factor analysis, latent profile analysis and psychometric network analysis.
 
 ## Funding & Affiliations
 
 ::: {.callout-note}
-Add funding body, grant reference, and institutional affiliations here.
+The W-MIC project is funded by **ZonMw** (the Netherlands Organisation for Health Research and Development). It is based at the **Erasmus School of Health Policy & Management (ESHPM)**, Erasmus University Rotterdam, in collaboration with the **EuroQol Research Foundation**.
 :::
 
 ## Timeline
@@ -54,3 +61,11 @@ Add funding body, grant reference, and institutional affiliations here.
 | Phase 1 | 2024–2025 | Literature review, framework development |
 | Phase 2 | 2025–2026 | Data collection and analysis |
 | Phase 3 | 2026–2027 | Dissemination and thesis write-up |
+
+| Phase | Period | Description |
+|-------|--------|-------------|
+| Phase 1 | 2024–2025 | Instrument selection & survey design | Selection of wellbeing instruments and design of the cross-sectional survey |
+| Phase 2A | 2025–2025 | Online survey in the Netherlands and United States (N≈7,000); follow-up in a subgroup |
+| Phase 2B | 2025–2027 | Case studies: Application of instruments in two clinical non-curative care settings |
+| Phase 3 | 2025–2028 | Psychometric analyses: Validation and comparison of instruments across subgroups and contexts |
+| Phase 4 | 2025–2028 | Dissemination: Publication of findings and open-access dataset release |
