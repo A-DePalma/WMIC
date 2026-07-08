@@ -16,11 +16,11 @@ toc: false
   <!-- PhD Researcher -->
   <div class="row align-items-center mb-5 pb-4" style="border-bottom:1px solid rgba(42,112,112,0.1)">
     <div class="col-md-3 text-center">
-      <div class="team-avatar-placeholder mx-auto">A</div>
+      <div style="width:150px; height:150px; border-radius:50%; background-image:url('/WMIC/images/Andrea.jpg'); background-size:cover; background-position:center; border:3px solid #e8f5f5; margin:0 auto; box-shadow:0 3px 12px rgba(26,74,74,0.12);"></div>
     </div>
     <div class="col-md-9">
       <h3 style="font-family:'DM Serif Display',serif;color:#1a4a4a;font-weight:400">Andrea De Palma</h3>
-      <div class="role mb-2" style="font-size:0.85rem;font-weight:500;letter-spacing:0.05em;text-transform:uppercase;color:#3d9e9e">PhD Researcher</div>
+      <div class="role mb-2" style="font-size:0.85rem;font-weight:500;letter-spacing:0.05em;text-transform:uppercase;color:#3d9e9e">PhD Researcher - Erasmus School of Health Policy and Management</div>
       <p style="color:#607d7d;line-height:1.7">
         Andrea De Palma is a PhD candidate at the Erasmus School of Health Policy & Management (ESHPM), Erasmus University Rotterdam, where he is the main researcher involved in the W-MIC project. Andrea holds a BSc in Psychology from the University of Glasgow, an MSc in Social Psychology from Utrecht University, and an MSc in Quantitative Psychology from the University of Padova. Prior to the PhD, he worked as an Outcomes Researcher at ICON plc, where he gained experience in applied health outcomes research. His research interests centre on outcome measurement approached from both qualitative and quantitative perspectives.
       </p>
@@ -34,11 +34,11 @@ toc: false
   <!-- Elly Stolk -->
   <div class="row align-items-center mb-5 pb-4" style="border-bottom:1px solid rgba(42,112,112,0.1)">
     <div class="col-md-3 text-center">
-      <div class="team-avatar-placeholder mx-auto">S</div>
+      <div style="width:150px; height:150px; border-radius:50%; background-image:url('/WMIC/images/Elly.jpg'); background-size:cover; background-position:center; border:3px solid #e8f5f5; margin:0 auto; box-shadow:0 3px 12px rgba(26,74,74,0.12);"></div>
     </div>
     <div class="col-md-9">
       <h3 style="font-family:'DM Serif Display',serif;color:#1a4a4a;font-weight:400">Elly Stolk</h3>
-      <div class="role mb-2" style="font-size:0.85rem;font-weight:500;letter-spacing:0.05em;text-transform:uppercase;color:#3d9e9e"> Primary Supersivor· Professor, EuroQol Research Foundation & Erasmus School of Health Policy & Management</div>
+      <div class="role mb-2" style="font-size:0.85rem;font-weight:500;letter-spacing:0.05em;text-transform:uppercase;color:#3d9e9e"> Professor - EuroQol Research Foundation & Erasmus School of Health Policy & Management</div>
       <p style="color:#607d7d;line-height:1.7">
         Elly Stolk is Professor of Measurement and Valuation of Health at Erasmus School of Health Policy & Management, Erasmus University Rotterdam and Scientific Director at the EuroQol Research Foundation. She earned her PhD at ESHPM in 2005, where she also served as assistant professor (2008–2016) and has co-directed the Erasmus Choice Modelling Centre since 2014. Elly joined the EuroQol Research Foundation part-time in 2013 and transitioned to a full-time role in 2016, holding various positions before being appointed Scientific Director in 2021. In 2022, she resumed her academic role at Erasmus University, balancing her expertise across academia and EuroQol. Her research focuses on quality of life assessment using patient-reported outcome measures (PROMs) and health preference methods like Time Trade-Off (TTO) and Discrete Choice Experiments (DCE). With over 100 publications, she also serves as associate editor for Value in Health and is on the editorial board of Pharmacoeconomics.
       </p>
@@ -52,11 +52,11 @@ toc: false
   <!-- Job van Exel-->
   <div class="row align-items-center mb-5">
     <div class="col-md-3 text-center">
-      <div class="team-avatar-placeholder mx-auto">S</div>
+      <div style="width:150px; height:150px; border-radius:50%; background-image:url('/WMIC/images/Job.jpg'); background-size:cover; background-position:center; border:3px solid #e8f5f5; margin:0 auto; box-shadow:0 3px 12px rgba(26,74,74,0.12);"></div>
     </div>
     <div class="col-md-9">
       <h3 style="font-family:'DM Serif Display',serif;color:#1a4a4a;font-weight:400">Job van Exel</h3>
-      <div class="role mb-2" style="font-size:0.85rem;font-weight:500;letter-spacing:0.05em;text-transform:uppercase;color:#3d9e9e">Secondary Supervisor · Full Professor, Erasmus School of Health Policy & Management</div>
+      <div class="role mb-2" style="font-size:0.85rem;font-weight:500;letter-spacing:0.05em;text-transform:uppercase;color:#3d9e9e"> Full Professor - Erasmus School of Health Policy & Management</div>
       <p style="color:#607d7d;line-height:1.7">
        Job is a full professor of Health Economics at Erasmus School of Health Policy & Management (ESHPM), Erasmus University Rotterdam. He obtained his MSc in Economics at Erasmus University Rotterdam in 1995 and his PhD at VU Amsterdam in 2011. Before joining ESHPM, He worked as transport economist at the Netherlands Economic Institute (NEI) from 1995 to 2000 and as health economist at the institute for Medical Technology Assessment (iMTA) from 2000 to 2006. From 2016 to 2021 he was professor of Economics & Values at Erasmus School of Economics. From 2018 to 2024 he was head of the Department of Health Economics at ESHPM. Since 2024 he is Director of Research and Vice Dean of ESHPM.
       </p>
@@ -70,11 +70,11 @@ toc: false
 <!-- Aureliano Paolo Finch-->
   <div class="row align-items-center mb-5">
     <div class="col-md-3 text-center">
-      <div class="team-avatar-placeholder mx-auto">S</div>
+      <div style="width:150px; height:150px; border-radius:50%; background-image:url('/WMIC/images/Aure.jpg'); background-size:cover; background-position:center; border:3px solid #e8f5f5; margin:0 auto; box-shadow:0 3px 12px rgba(26,74,74,0.12);"></div>
     </div>
     <div class="col-md-9">
       <h3 style="font-family:'DM Serif Display',serif;color:#1a4a4a;font-weight:400">Aureliano Paolo Finch</h3>
-      <div class="role mb-2" style="font-size:0.85rem;font-weight:500;letter-spacing:0.05em;text-transform:uppercase;color:#3d9e9e">Secondary Supervisor · Senior Researcher, EuroQol Research Foundation</div>
+      <div class="role mb-2" style="font-size:0.85rem;font-weight:500;letter-spacing:0.05em;text-transform:uppercase;color:#3d9e9e"> Senior Researcher - EuroQol Research Foundation & European Medicines Agency</div>
       <p style="color:#607d7d;line-height:1.7">
        Aureliano Paolo Finch is a senior researcher at the EuroQol Research Foundation and Academia Matrix Program Lead / National Expert at European Medicines Agency. He is an senior scientist with several years of experience working in health economics. He obtained a PhD from The University of Sheffield in Health Economics and Decision Science
       </p>
