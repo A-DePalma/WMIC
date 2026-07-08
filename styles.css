@@ -269,8 +269,8 @@ body.page-full main.content {
   display: inline-block;
   font-size: 0.72rem;
   font-weight: 500;
-  padding: 0.25rem 0.85rem;
-  border-radius: 1rem;
+  padding: 0.35rem 1rem;
+  border-radius: 2rem;
   margin-left: 0;
   vertical-align: middle;
 }
