@@ -1,8 +1,9 @@
 project:
   type: website
   output-dir: docs
-  resources:
+   resources:
     - images/
+    - files/
 
 website:
   title: "WMIC"
