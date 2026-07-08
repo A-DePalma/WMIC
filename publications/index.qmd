@@ -13,47 +13,39 @@ toc: false
 
 <div class="container">
 
-  <p style="color:#607d7d;font-size:0.9rem;margin-bottom:2rem">
-    Publications are listed in reverse chronological order. 
-    <span class="pub-badge published">Published</span> peer-reviewed publications · 
-    <span class="pub-badge under-review">Under review</span> submitted work · 
-    <span class="pub-badge working-paper">Working paper</span> work in progress
-  </p>
+  <p style="color:#607d7d;font-size:0.9rem;margin-bottom:0.5rem">Publications are listed in reverse chronological order.</p>
+  <ul style="list-style:none;padding:0;margin-bottom:2rem;display:flex;flex-direction:column;gap:0.4rem;">
+    <li><span class="pub-badge published">Published</span> <span style="color:#607d7d;font-size:0.9rem">peer-reviewed publications</span></li>
+    <li><span class="pub-badge under-review">Under review</span> <span style="color:#607d7d;font-size:0.9rem">submitted work</span></li>
+    <li><span class="pub-badge working-paper">Working paper</span> <span style="color:#607d7d;font-size:0.9rem">work in progress</span></li>
+  </ul>
 
   <div class="pub-item">
-    <div style="margin-bottom:0.4rem;">
-      <span class="pub-badge working-paper">Working paper</span>
-    </div>
+    <span class="pub-badge working-paper" style="margin-bottom:0.5rem;display:inline-block;">Working paper</span>
     <h4>Different Measures, Different People? A Person-Centered Comparison of Four Wellbeing Instruments</h4>
     <div class="authors">De Palma A, Caliciuri R, van Exel J, Sorgente A</div>
-    <div class="journal">Working paper — 2026</div>
+    <div class="journal">2026 · DOI: TBA</div>
   </div>
 
   <div class="pub-item">
-    <div style="margin-bottom:0.4rem;">
-      <span class="pub-badge working-paper">Working paper</span>
-    </div>
+    <span class="pub-badge working-paper" style="margin-bottom:0.5rem;display:inline-block;">Working paper</span>
     <h4>What do we measure when we measure wellbeing? A Dimensionality Assessment of Multiple Wellbeing Instruments</h4>
     <div class="authors">De Palma A, Finch AP, van Exel J, Stolk E</div>
-    <div class="journal">Working paper — 2026</div>
+    <div class="journal">2026 · DOI: TBA</div>
   </div>
 
   <div class="pub-item">
-    <div style="margin-bottom:0.4rem;">
-      <span class="pub-badge working-paper">Working paper</span>
-    </div>
+    <span class="pub-badge working-paper" style="margin-bottom:0.5rem;display:inline-block;">Working paper</span>
     <h4>Psychometric results from the Wellbeing Multi-Instrument Comparison study</h4>
     <div class="authors">De Palma A, Finch AP, van Exel J, Stolk E</div>
-    <div class="journal">Working paper — 2026</div>
+    <div class="journal">2026 · DOI: TBA</div>
   </div>
 
   <div class="pub-item">
-    <div style="margin-bottom:0.4rem;">
-      <span class="pub-badge under-review">Under review</span>
-    </div>
+    <span class="pub-badge under-review" style="margin-bottom:0.5rem;display:inline-block;">Under review</span>
     <h4>Measuring Wellbeing For Economic Evaluations: An Overview Of The Wellbeing Multi-Instrument Comparison (W-MIC) Study and Its Open-Access, Large Dataset</h4>
     <div class="authors">De Palma A, Finch AP, van Exel J, Van der Akker-Van Marle ME, Bosmans JE, Stolk E</div>
-    <div class="journal">Under review — 2026</div>
+    <div class="journal">2026 · DOI: TBA</div>
   </div>
 
   <div style="padding:2rem 0;text-align:center;color:#9eb8b8;font-size:0.9rem">
