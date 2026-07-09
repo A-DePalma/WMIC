@@ -51,7 +51,7 @@ You can click on this box to get access to the dataset or use the following link
     <div>
       <h5>Survey instruments</h5>
       <p>Some of the instruments used in the W-MIC survey are subject to copyright and cannot be shared directly. Please check the Datamap from our dataset to review the instruments included in the survey.  
-For access to the instruments, please refer to the respective instrument developers or, for further information, contact the research team via the <a href="/WMIC/contact.html" style="color:#3d9e9e;">contact page</a>.</p>
+For access to the instruments, please refer to the respective instrument developers or, for further information, contact the research team via the <a href="/WMIC/contact.qmd" style="color:#3d9e9e;">contact page</a>.</p>
     </div>
   </div>
 
@@ -62,7 +62,7 @@ For access to the instruments, please refer to the respective instrument develop
 
   <!-- Copy and paste a resource-item block below for each presentation you upload.
        Replace the href with /WMIC/files/yourfilename.pdf and update the title and description. -->
-<a href="/WMIC/files/EuHEA Psychometric Presentation_v1.0_08JUL2026.pptx" class="resource-item" target="_blank">
+<a href="/WMIC/files/EuHEA_Psychometric_Presentation_v1.0_08JUL2026.pptx" class="resource-item" target="_blank">
     <div class="resource-icon">📊</div>
     <div>
       <h5>Psychometric results from the Wellbeing Multi-Instrument Comparison (W-MIC) study</h5>
@@ -86,7 +86,7 @@ For access to the instruments, please refer to the respective instrument develop
     </div>
   </a>
 
-   <a href="/WMIC/files/Overview Project_v1.0_02DEC2024.pptx" class="resource-item" target="_blank">
+   <a href="/WMIC/files/Overview_Project_v1.0_02DEC2024.pptx" class="resource-item" target="_blank">
     <div class="resource-icon">📊</div>
     <div>
       <h5>The Well-being Multi-Instrument Comparison study</h5>
