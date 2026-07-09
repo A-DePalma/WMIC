@@ -6,9 +6,9 @@ project:
     - files/
 
 website:
-  title: "WMIC"
-  description: "Wellbeing, Mental health, Inequalities & Choices — A PhD Research Project"
-  favicon: images/favicon.ico
+  title: "WMIC Study"
+  description: "The Wellbeing Multi-Instrument Comparison Study"
+  favicon: images/WMIC_logo.png
 
   navbar:
     background: primary
