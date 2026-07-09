@@ -15,6 +15,20 @@ toc: false
 
   <!-- Copy a news-item block to add new entries. Most recent at the top. -->
 
+<div class="news-item">
+    <div class="news-date">
+      <div class="month">June</div>
+      <div class="day">06</div>
+      <div class="year">2026</div>
+    </div>
+    <div class="news-content">
+      <h4>Published open-access dataset 🎉</h4>
+      <p>
+        Our large, open-access dataset is now publicly available on DANS! Check the resources page to access the dataset.
+      </p>
+    </div>
+  </div>
+
  <div class="news-item">
     <div class="news-date">
       <div class="month">Dec</div>
