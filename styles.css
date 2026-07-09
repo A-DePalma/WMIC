@@ -483,3 +483,9 @@ body.page-full main.content {
   .news-item { flex-direction: column; gap: 0.5rem; }
   .news-date { display: flex; align-items: baseline; gap: 0.5rem; }
 }
+
+/* Hide auto-generated page title headings */
+.quarto-title-block,
+#title-block-header {
+  display: none !important;
+}
