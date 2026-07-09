@@ -14,55 +14,58 @@ toc: false
 <div class="container">
 
   <p style="color:#607d7d;margin-bottom:2rem;line-height:1.7">
-    We are committed to open science. Where possible, data, analysis code, and research instruments
-    will be made openly available below as the project progresses.
+    The W-MIC project is committed to open science. Data and code are made openly available
+    where possible, and additional materials will be added as the project progresses.
   </p>
 
   <!-- SECTION: Data -->
-  <h2 class="section-title" style="font-size:1.4rem;margin-bottom:1rem">Data</h2>
-  <a href="#" class="resource-item">
+  <div style="font-family:'DM Serif Display',Georgia,serif;font-size:1.4rem;color:#1a4a4a;font-weight:400;margin-bottom:1rem;">Data</div>
+  <a href="https://doi.org/10.17026/SS/5IEOPC" class="resource-item" target="_blank">
     <div class="resource-icon">🗄️</div>
     <div>
-      <h5>Dataset name</h5>
-      <p>Brief description of the dataset, sample size, variables, and access conditions.</p>
+      <h5>W-MIC Open-Access Dataset</h5>
+      <p>Cross-sectional survey data from 7,155 participants (Netherlands and United States) collected across nine health and wellbeing instruments. Hosted on DANS Data Station. DOI: 10.17026/SS/5IEOPC</p>
     </div>
   </a>
 
   <hr class="divider-teal">
 
   <!-- SECTION: Code -->
-  <h2 class="section-title" style="font-size:1.4rem;margin-bottom:1rem">Code &amp; Analysis Scripts</h2>
-  <a href="https://github.com/A-DePalma/WMIC" class="resource-item" target="_blank">
+  <div style="font-family:'DM Serif Display',Georgia,serif;font-size:1.4rem;color:#1a4a4a;font-weight:400;margin-bottom:1rem;">Code &amp; Analysis Scripts</div>
+  <div class="resource-item" style="cursor:default;">
     <div class="resource-icon">💻</div>
     <div>
-      <h5>GitHub Repository</h5>
-      <p>All analysis scripts and code will be shared in the project's GitHub repository.</p>
+      <h5>Analysis code</h5>
+      <p>Analysis scripts will be made available alongside each publication as they are released. Code repositories will be linked here when available.</p>
     </div>
-  </a>
+  </div>
 
   <hr class="divider-teal">
 
   <!-- SECTION: Study materials -->
-  <h2 class="section-title" style="font-size:1.4rem;margin-bottom:1rem">Study Materials</h2>
-  <a href="#" class="resource-item">
+  <div style="font-family:'DM Serif Display',Georgia,serif;font-size:1.4rem;color:#1a4a4a;font-weight:400;margin-bottom:1rem;">Study Materials</div>
+  <div class="resource-item" style="cursor:default;">
     <div class="resource-icon">📋</div>
     <div>
-      <h5>Survey instrument</h5>
-      <p>Questionnaire and measurement tools used in the study. Available on request / download link.</p>
+      <h5>Survey instruments</h5>
+      <p>The instruments used in the W-MIC survey are subject to copyright and cannot be shared directly. For access, please refer to the respective instrument developers or contact the research team via the <a href="/WMIC/contact.html" style="color:#3d9e9e;">contact page</a>.</p>
     </div>
-  </a>
+  </div>
 
   <hr class="divider-teal">
 
-  <!-- SECTION: Reports & presentations -->
-  <h2 class="section-title" style="font-size:1.4rem;margin-bottom:1rem">Reports &amp; Presentations</h2>
-  <a href="#" class="resource-item">
+  <!-- SECTION: Presentations -->
+  <div style="font-family:'DM Serif Display',Georgia,serif;font-size:1.4rem;color:#1a4a4a;font-weight:400;margin-bottom:1rem;">Presentations</div>
+
+  <!-- Copy and paste a resource-item block below for each presentation you upload.
+       Replace the href with /WMIC/files/yourfilename.pdf and update the title and description. -->
+  <div class="resource-item" style="cursor:default;">
     <div class="resource-icon">📊</div>
     <div>
-      <h5>Conference presentation — [Event name, Year]</h5>
-      <p>Slides from [conference name]. Add a short description of the content.</p>
+      <h5>Presentations</h5>
+      <p>Conference presentations and other materials will be added here as the project progresses.</p>
     </div>
-  </a>
+  </div>
 
   <div style="padding:2rem 0;text-align:center;color:#9eb8b8;font-size:0.9rem">
     More resources will be added as the project progresses.
