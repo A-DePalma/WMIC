@@ -65,13 +65,13 @@ toc: false
   <div style="max-width:680px; margin:0 auto;">
     <div class="news-item">
       <div class="news-date">
-        <div class="month">Jan</div>
-        <div class="day">15</div>
-        <div class="year">2025</div>
+        <div class="month">June</div>
+        <div class="day">06</div>
+        <div class="year">2026</div>
       </div>
       <div class="news-content">
-        <div style="font-family:'DM Serif Display',Georgia,serif; color:#1a4a4a; font-weight:400; margin-bottom:0.2rem; text-align:left;">Project officially launched</div>
-        <p>The WMIC PhD project has formally started. Looking forward to sharing updates on methods, findings, and events throughout the research journey.</p>
+        <div style="font-family:'DM Serif Display',Georgia,serif; color:#1a4a4a; font-weight:400; margin-bottom:0.2rem; text-align:left;">Published open-access dataset 🎉</div>
+        <p>Our large, open-access dataset is now publicly available on DANS! Check the resources page to access the dataset.</p>
       </div>
     </div>
   </div>
