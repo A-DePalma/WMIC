@@ -28,7 +28,7 @@ toc: false
           3. Replace YOUR_FORM_ID below with your actual ID
           The free tier allows 50 submissions/month which is plenty for a research website.
         -->
-        <form action="https://formspree.io/f/xgoqjwlz" method="POST">
+        <form action="https://formspree.io/f/xnjkevzb" method="POST">
 
           <div class="mb-3">
             <label for="name">Name</label>
@@ -56,15 +56,6 @@ toc: false
       </div>
 
     </div>
-
-    <div class="col-md-5 offset-md-1">
-      <div style="padding-top:1rem">
-        <h3 style="font-family:'DM Serif Display',serif;color:#1a4a4a;font-weight:400;margin-bottom:1.5rem">Direct contact</h3>
-
-        <div style="margin-bottom:1.5rem">
-          <div style="font-size:0.8rem;font-weight:500;text-transform:uppercase;letter-spacing:0.07em;color:#3d9e9e;margin-bottom:0.3rem">Email</div>
-          <a href="mailto:	wmicstudy@gmail.com" style="color:#1a4a4a;text-decoration:none">wmicstudy@gmail.com</a>
-        </div>
 
         <div style="margin-bottom:1.5rem">
           <div style="font-size:0.8rem;font-weight:500;text-transform:uppercase;letter-spacing:0.07em;color:#3d9e9e;margin-bottom:0.3rem">Institution</div>
