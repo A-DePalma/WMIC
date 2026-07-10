@@ -7,7 +7,7 @@ toc: false
 <div class="page-hero">
   <div class="container">
     <h1>Resources</h1>
-    <p>Data, code, materials, and other outputs from the WMIC project</p>
+    <p>Data, code, materials, and other outputs from the W-MIC project</p>
   </div>
 </div>
 
@@ -89,7 +89,7 @@ For access to the instruments, please refer to the respective instrument develop
    <a href="/files/Overview_Project_v1.0_02DEC2024.pdf" class="resource-item" target="_blank">
     <div class="resource-icon">📊</div>
     <div>
-      <h5>The Well-being Multi-Instrument Comparison study</h5>
+      <h5>The Wellbeing Multi-Instrument Comparison study</h5>
       <p>General Presentation · December 2024</p>
     </div>
   </a>
