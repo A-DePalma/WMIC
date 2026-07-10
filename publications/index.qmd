@@ -7,7 +7,7 @@ toc: false
 <div class="page-hero">
   <div class="container">
     <h1>Publications</h1>
-    <p>Peer-reviewed papers, preprints, and working papers from the WMIC project</p>
+    <p>Peer-reviewed papers, preprints, and working papers from the W-MIC project</p>
   </div>
 </div>
 
