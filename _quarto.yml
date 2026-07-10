@@ -6,7 +6,7 @@ project:
     - files/
 
 website:
-  title: "WMIC Study"
+  title: "W-MIC Study"
   description: "The Wellbeing Multi-Instrument Comparison Study"
   favicon: images/WMIC_logo.png
 
@@ -14,7 +14,7 @@ website:
     background: primary
     pinned: true
     logo: images/WMIC_logo.png
-    logo-alt: "WMIC"
+    logo-alt: "W-MIC"
     left:
       - text: "Home"
         href: index.qmd
@@ -36,7 +36,7 @@ website:
         aria-label: GitHub
 
   page-footer:
-    left: "© 2025 WMIC Project"
+    left: "© 2026 W-MIC Project"
     right:
       - text: "GitHub"
         href: https://github.com/A-DePalma/WMIC
