@@ -7,7 +7,7 @@ toc: false
 <div class="page-hero">
   <div class="container">
     <h1>News &amp; Updates</h1>
-    <p>Latest from the WMIC project — milestones, events, and announcements</p>
+    <p>Latest from the W-MIC project — milestones, events, and announcements</p>
   </div>
 </div>
 
@@ -38,7 +38,7 @@ toc: false
     <div class="news-content">
       <h4>First case study participant 🎉</h4>
       <p>
-        The first WMIC case study participant has been interviewed. Data collection for the case studies is officially open! (ETH2425-0925)
+        The first W-MIC case study participant has been interviewed. Data collection for the case studies is officially open! (ETH2425-0925)
       </p>
     </div>
   </div>
@@ -66,7 +66,7 @@ toc: false
     <div class="news-content">
       <h4>Ethics approval 🎉</h4>
       <p>
-        The WMIC PhD project has officially received ethics approval from the Ethics board of the Erasmus School of Health Policy and Management for our large cross-sectional survey (ETH2425-0925)!
+        The W-MIC PhD project has officially received ethics approval from the Ethics board of the Erasmus School of Health Policy and Management for our large cross-sectional survey (ETH2425-0925)!
       </p>
     </div>
   </div>
@@ -81,7 +81,7 @@ toc: false
     <div class="news-content">
       <h4>Project officially launched 🎉</h4>
       <p>
-        The WMIC PhD project has formally started. Looking forward to sharing updates on methods, findings, and events throughout the research journey.
+        The W-MIC PhD project has formally started. Looking forward to sharing updates on methods, findings, and events throughout the research journey.
       </p>
     </div>
   </div>
