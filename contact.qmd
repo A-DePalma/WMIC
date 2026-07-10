@@ -57,14 +57,6 @@ toc: false
 
     </div>
 
-        <div style="margin-bottom:1.5rem">
-          <div style="font-size:0.8rem;font-weight:500;text-transform:uppercase;letter-spacing:0.07em;color:#3d9e9e;margin-bottom:0.3rem">Institution</div>
-          <span style="color:#607d7d">Erasmus School of Health Policy & Management<br>Erasmus University Rotterdam<br>Rotterdam, The Netherlands</span>
-        </div>
-
-      </div>
-    </div>
-
   </div>
 </div>
 ```
