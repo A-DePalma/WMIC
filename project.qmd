@@ -7,7 +7,7 @@ toc: true
 <div class="page-hero">
   <div class="container">
     <h1>The Project</h1>
-    <p>An overview of WMIC — its aims, approach, and context</p>
+    <p>An overview of W-MIC — its background, aims and methodology</p>
   </div>
 </div>
 ```
