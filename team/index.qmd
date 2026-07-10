@@ -16,7 +16,7 @@ toc: false
   <!-- PhD Researcher -->
   <div class="row align-items-center mb-5 pb-4" style="border-bottom:1px solid rgba(42,112,112,0.1)">
     <div class="col-md-3 text-center">
-      <div style="width:150px; height:150px; border-radius:50%; background-image:url('/WMIC/images/Andrea.jpg'); background-size:cover; background-position:center; border:3px solid #e8f5f5; margin:0 auto; box-shadow:0 3px 12px rgba(26,74,74,0.12);"></div>
+      <div style="width:150px; height:150px; border-radius:50%; background-image:url('/images/Andrea.jpg'); background-size:cover; background-position:center; border:3px solid #e8f5f5; margin:0 auto; box-shadow:0 3px 12px rgba(26,74,74,0.12);"></div>
     </div>
     <div class="col-md-9">
       <h3 style="font-family:'DM Serif Display',serif;color:#1a4a4a;font-weight:400">Andrea De Palma</h3>
@@ -34,7 +34,7 @@ toc: false
   <!-- Elly Stolk -->
   <div class="row align-items-center mb-5 pb-4" style="border-bottom:1px solid rgba(42,112,112,0.1)">
     <div class="col-md-3 text-center">
-      <div style="width:150px; height:150px; border-radius:50%; background-image:url('/WMIC/images/Elly.jpg'); background-size:cover; background-position:center; border:3px solid #e8f5f5; margin:0 auto; box-shadow:0 3px 12px rgba(26,74,74,0.12);"></div>
+      <div style="width:150px; height:150px; border-radius:50%; background-image:url('/images/Elly.jpg'); background-size:cover; background-position:center; border:3px solid #e8f5f5; margin:0 auto; box-shadow:0 3px 12px rgba(26,74,74,0.12);"></div>
     </div>
     <div class="col-md-9">
       <h3 style="font-family:'DM Serif Display',serif;color:#1a4a4a;font-weight:400">Elly Stolk</h3>
@@ -52,7 +52,7 @@ toc: false
   <!-- Job van Exel-->
   <div class="row align-items-center mb-5">
     <div class="col-md-3 text-center">
-      <div style="width:150px; height:150px; border-radius:50%; background-image:url('/WMIC/images/Job.jpg'); background-size:cover; background-position:center; border:3px solid #e8f5f5; margin:0 auto; box-shadow:0 3px 12px rgba(26,74,74,0.12);"></div>
+      <div style="width:150px; height:150px; border-radius:50%; background-image:url('/images/Job.jpg'); background-size:cover; background-position:center; border:3px solid #e8f5f5; margin:0 auto; box-shadow:0 3px 12px rgba(26,74,74,0.12);"></div>
     </div>
     <div class="col-md-9">
       <h3 style="font-family:'DM Serif Display',serif;color:#1a4a4a;font-weight:400">Job van Exel</h3>
@@ -70,7 +70,7 @@ toc: false
 <!-- Aureliano Paolo Finch-->
   <div class="row align-items-center mb-5">
     <div class="col-md-3 text-center">
-      <div style="width:150px; height:150px; border-radius:50%; background-image:url('/WMIC/images/Aure.jpg'); background-size:cover; background-position:center; border:3px solid #e8f5f5; margin:0 auto; box-shadow:0 3px 12px rgba(26,74,74,0.12);"></div>
+      <div style="width:150px; height:150px; border-radius:50%; background-image:url('/images/Aure.jpg'); background-size:cover; background-position:center; border:3px solid #e8f5f5; margin:0 auto; box-shadow:0 3px 12px rgba(26,74,74,0.12);"></div>
     </div>
     <div class="col-md-9">
       <h3 style="font-family:'DM Serif Display',serif;color:#1a4a4a;font-weight:400">Aureliano Paolo Finch</h3>
