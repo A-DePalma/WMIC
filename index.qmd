@@ -9,7 +9,7 @@ toc: false
 <section class="hero">
   <div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:4rem; padding:0 3rem;">
   <div class="hero-inner" style="flex:1; min-width:280px;">
-    <div class="hero-tag">The Well-being Multi-Instrument Comparison Study (W-MIC) </div>
+    <div class="hero-tag">The Wellbeing Multi-Instrument Comparison Study (W-MIC) </div>
     <h1>Wellbeing as Outcome<br>in Economic Evaluations </h1>
     <p class="lead">
       Multiple wellbeing measures have been developed to be used in economic evaluations of curative and non-curative care. But are all these measures equal? Do they provide the same assessment of wellbeing? And do they perform equally in different populations, for example older or social care populations? The W-MIC study hopes to answer this question.
@@ -33,7 +33,7 @@ toc: false
       <div class="wmic-card">
         <div class="card-icon">📊</div>
         <h3>Large, Open-Access Datasets</h3>
-        <p>The study collected data from over 7,000 participants living in the Netherlands and the United States. Participants included members from the general public, older adults, individuals with chronic health conditions and social care users, making it the largest dataset on health and well-being measures to date.</p>
+        <p>The study collected data from over 7,000 participants living in the Netherlands and the United States. Participants included members from the general public, older adults, individuals with chronic health conditions and social care users, making it the largest dataset on health and wellbeing measures to date.</p>
       </div>
     </div>
     <div class="col-md-4">
