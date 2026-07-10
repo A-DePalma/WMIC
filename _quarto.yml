@@ -4,6 +4,7 @@ project:
   resources:
     - images/
     - files/
+    - CNAME
 
 website:
   title: "W-MIC Study"
