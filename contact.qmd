@@ -7,7 +7,7 @@ toc: false
 <div class="page-hero">
   <div class="container">
     <h1>Contact</h1>
-    <p>Get in touch with the WMIC project team</p>
+    <p>Get in touch with the W-MIC project team</p>
   </div>
 </div>
 
@@ -17,7 +17,7 @@ toc: false
 
       <div class="contact-wrapper">
         <p style="color:#607d7d;margin-bottom:2rem;line-height:1.7">
-          Use the form below to reach out to the WMIC team. We are happy to answer any questions about the research, to discuss possible collaborations,
+          Use the form below to reach out to the W-MIC team. We are happy to answer any questions about the research, to discuss possible collaborations,
           or to have a chat about measuring wellbeing.
         </p>
 
