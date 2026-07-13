@@ -12,7 +12,7 @@ toc: false
     <div class="hero-tag">The Wellbeing Multi-Instrument Comparison Study (W-MIC) </div>
     <h1>Wellbeing as Outcome<br>in Economic Evaluations </h1>
     <p class="lead">
-      Multiple wellbeing measures have been developed to be used in economic evaluations of curative and non-curative care. But are all these measures equal? Do they provide the same assessment of wellbeing? And do they perform equally in different populations, for example older or social care populations? The W-MIC study hopes to answer this question.
+      Multiple wellbeing measures have been developed to be used in economic evaluations of curative and non-curative care. But are all these measures equal? Do they provide the same assessment of wellbeing? And do they perform equally in different populations, for example older or social care populations? The W-MIC study hopes to answer these questions.
     </p>
     <a href="project.qmd" class="btn-hero">About the Project</a>
     <a href="publications/index.qmd" class="btn-outline-hero">Publications</a>
